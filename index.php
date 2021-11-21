@@ -5,53 +5,82 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Febro Herdyanto</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Rega Fitrian & Gita Puspitasari</title>
+  <meta content="Wedding Invitation - Rega Fitrian & Gita Puspitasari on Jaunary 15th, 2022" name="description">
+  <meta content="Wedding Invitation" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.jpg" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/css/cssku.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="assets/js/jsbaru.js"></script>
+
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style2.css" rel="stylesheet">
+  <link href="assets/css/fontlatin.css" rel="stylesheet">
+  <script src="assets/js/maps.js"></script>
+  <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6pOhRHkx4cWjPijOGwQznSKrmSfL8DDA&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
 
+
+
+  <style>
+    .zoom1 {
+  padding: 10px;
+  transition: transform .9s;
+}
+.zoom1:hover {
+  transform: scale(1.1);
+}
+  </style>
 
 
   <script>
     // Set the date we're counting down to
-    var countDownDate = new Date("Sept 22, 2022 10:00:00").getTime();
-    
+    // #Febro Wedding var countDownDate = new Date("Sept 22, 2022 10:00:00").getTime();
+    // #Rega Weddiing
+    var countDownDate = new Date("Jan 15, 2022 10:00:00").getTime();
+
     // Update the count down every 1 second
+
     var x = setInterval(function() {
-    
+
       // Get today's date and time
       var now = new Date().getTime();
-    
+
       // Find the distance between now and the count down date
       var distance = countDownDate - now;
-    
+
       // Time calculations for days, hours, minutes and seconds
       var days = Math.floor(distance / (1000 * 60 * 60 * 24));
       var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
       var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
       var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    
+
       // Display the result in the element with id="demo"
-      document.getElementById("demo").innerHTML = days + "Days " + hours + "Hr "
-      + minutes + "Min " + seconds + "Sec ";
-    
+      document.getElementById("demo").innerHTML = days + " Days " + hours + " Hr "
+      + minutes + " Min " + seconds + " Sec ";
+
       // If the count down is finished, write some text
       if (distance < 0) {
         clearInterval(x);
@@ -79,10 +108,12 @@
     <nav id="navbar" class="navbar nav-menu">
       <ul>
         <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-        <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Our</span></a></li>
-        <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-        <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
-        <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+        <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Our Profile</span></a></li>
+        <li><a href="#story" class="nav-link scrollto"><i class="bx bx-heart"></i> <span>Our Story</span></a></li>
+        <li><a href="#event" class="nav-link scrollto"><i class="bx bx-calendar-heart"></i> <span>Event</span></a></li>
+        <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-images"></i> <span>Our Pictures</span></a></li>
+        <?php //<li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li> ?>
+        <li><a href="#testimonials" class="nav-link scrollto"><i class="bx bx-face"></i> <span>Wish</span></a></li>
         <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
       </ul>
     </nav><!-- .nav-menu -->
@@ -92,10 +123,15 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h2>The Wedding</h2>
-      <h1>Febro Herdyanto & Mustikasari</h1>
+      <h2 class="fontlatin">The Wedding</h2><br>
+      <h1 class="fontlatin">Rega Fitrian & Gita Puspitasari</h1>
+      <br>
       <p><span class="typed" data-typed-items="A perfect love is when a couple fall in love for many times and always with the same person, In silence I fight for your love in my dua, Marriage is the golden ring in a chain whose beginning is a glance and whose ending is eternity"></span></p>
-      <h1 id="demo" class="countdown py-4"></h1>
+      
+      <br>
+      <h1 id="demo" class="countdown py-4 newfonts"></h1>
+      
+      <?php /*
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -103,6 +139,7 @@
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
+      */?>
 
     </div>
   </section><!-- End Hero -->
@@ -114,83 +151,212 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>OUR STORY</h2>
+          <h2>OUR PROFILE</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
-        <div class="row"> <!-- === DEFINE PERSONAL DETAIL ===-->
-          <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="" style="border-radius: 50%;">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                </ul>
+
+        <div class="row" style="text-align: center;"> <!-- === DEFINE PERSONAL DETAIL ===-->
+          <div class="col-lg-5" data-aos="fade-up">
+            <div class="" style="">
+              <img src="assets/img/febro.jpg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
+              <div class="col-lg-12 content" >
+                <h3>Rega Fitrian</h3>
+                <p class="fst-italic">
+                  Pria kelahiran tahun 1993.<br>
+                  Putra ketiga dari Bapak Eddy Irianto dan Ibu Herry Sri Iswati.
+                </p>
               </div>
             </div>
-            <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-            </p>
           </div>
-        </div>  <!-- === END DEFINE PERSONAL DETAIL ===-->
 
-        <br>
-        <div class="row"> <!-- === DEFINE PERSONAL DETAIL ===-->
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                </ul>
+          <div class="col-lg-2" data-aos="fade-up" style="text-align: center;"><br><img src="assets/img/simboldan.png" width="150" height="200px"><br></div>
+        
+          <div class="col-lg-5" data-aos="fade-up">
+            <div class="">
+              <img src="assets/img/mustika.jpeg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
+              <div class="col-lg-12 content">
+                <h3>Gita Puspitasari</h3>
+                <p class="fst-italic">
+                  Wanita kelahiran 1999. <br>
+                  Putri kedua dari Bapak Suratman dan Ibu Ranti.
+                </p>
               </div>
             </div>
-            <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-            </p>
-          </div>
-          <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="" style="border-radius: 50%;">
-          </div>
+        </div>
         </div>  <!-- === END DEFINE PERSONAL DETAIL ===-->
-
       </div>
     </section><!-- End About Section -->
+
+
+    <!-- ======= OUR STORY ======= -->
+    <section id="story" class="story">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2><i class="bx bx-heart"></i> LOVE STORY</h2>
+          <p><i>Rega Fitrian & Gita Puspitasari</i></p>
+        </div>
+
+
+        <div class="row">
+          <div class="col-lg-1"> </div>
+          <div class="col-lg-9">
+            <div class="resume">
+              <h3 class="resume-title">Perjalanan Kisah Cinta Kami</h3>
+                <div class="resume-item">
+                  <h4>First Meet</h4>
+                  <h5>2016</h5>
+                  <p><em>Caruban, Madiun</em></p>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
+                </div>
+                <div class="resume-item">
+                  <h4>Dating</h4>
+                  <h5>April 2016</h5>
+                  <p><em>Caruban, Madiun</em></p>
+                  <p>LLorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
+                </div>
+                <div class="resume-item">
+                  <h4>Engagement</h4>
+                  <h5>2016 - 2019</h5>
+                  <p><em>Madiun - Cikarang</em></p>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
+                </div>
+                <div class="resume-item">
+                  <h4>Wedding</h4>
+                  <h5>Mei 2021</h5>
+                  <p><em>Caruban, Madiun</em></p>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= END OUR STORY ======= -->
+
+    <section id="event" class="event">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2><i class="bx bx-heart"></i> EVENT SCHEDULE</h2>
+          <p><i>Wedding</i></p>
+        </div>
+        
+        <div class="row">
+          <section class="design-process-section" id="process-tab">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12"> 
+                  
+                  <!-- design process steps--> 
+                  <!-- Nav tabs -->
+                  <div class="row">
+                    <div class="col-lg-12" style="text-align: center;">
+
+                      
+                      <div class="col-lg-12">
+                      <ul class="nav nav-pills" style="text-align: center; font-size: 20px; font-color: black;">
+                        <li class="nav-item">
+                          <a class="nav-link" href="#jakad" aria-controls="jakad" role="tab" data-toggle="tab"><i class="bx bx-home-heart" aria-hidden="true"></i> <p>Akad Nikah</p></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#jresepsi" aria-controls="jresepsi" role="tab" data-toggle="tab"><i class="bx bx-building-house" aria-hidden="true"></i></i>
+                          <p>Resepsi</p></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#jngunduh" aria-controls="jngunduh" role="tab" data-toggle="tab"><i class="bx bxs-institution" aria-hidden="true"></i>
+                          <p>Ngunduh</p></a>
+                        </li>
+                      </ul>
+                      </div>
+
+
+                    </div>
+                  </div>
+                  <!-- end design process steps--> 
+                  
+                  
+                  
+                  <!-- Tab panes -->
+                  <div class="tab-content">
+                    <div role="tabpanel" class="row tab-pane in active" id="jakad">
+                      <div class="design-process-content">
+                        <div class="row">
+                          <div class="col-lg-12">
+                            <div class="col-lg-8">
+                              <h3 class="semi-bold fontlatin" style="text-align: center;">Akad Nikah</h3>
+                              <p style="font-size: ; line-height: ;">InsyaAllah Akad Nikah akan diselenggarakan pada : </p>
+                              <p style="font-size: ;"><i class="bx bx-calendar" aria-hidden="true"></i> Hari, Tanggal : ............... <br>
+                              <i class="bx bx-time" aria-hidden="true"></i> Pukul : ............... <br>
+                              <i class="bx bx-home" aria-hidden="true"></i> Alamat : ............... <br>
+                              </p>
+                            </div>
+                            <div class="col-lg-4" style="text-align: center;">
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
+                              <img src="">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <div role="tabpanel" class="row tab-pane" id="jresepsi">
+                    <div class="design-process-content">
+                        <div class="row">
+                          <div class="col-lg-12">
+                            <div class="col-lg-8">
+                              <h3 class="semi-bold fontlatin" style="text-align: center;">Resepsi Pernikahan</h3>
+                              <p style="font-size: ; line-height: ;">InsyaAllah Resepsi Pernikahan akan diselenggarakan pada : </p>
+                              <p style="font-size: ;"><i class="bx bx-calendar" aria-hidden="true"></i> Hari, Tanggal : ............... <br>
+                              <i class="bx bx-time" aria-hidden="true"></i> Pukul : ............... <br>
+                              <i class="bx bx-home" aria-hidden="true"></i> Alamat : ............... <br>
+                              </p>
+                            </div>
+                            <div class="col-lg-4" style="text-align: center;">
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
+                              <img src="">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <div role="tabpanel" class="row tab-pane" id="jngunduh">
+                    <div class="design-process-content">
+                        <div class="row">
+                          <div class="col-lg-12">
+                            <div class="col-lg-8">
+                              <h3 class="semi-bold fontlatin" style="text-align: center;">Ngunduh Mantu</h3>
+                              <p style="font-size: ; line-height: ;">InsyaAllah Ngunduh Mantu akan diselenggarakan pada : </p>
+                              <p style="font-size: ;"><i class="bx bx-calendar" aria-hidden="true"></i> Hari, Tanggal : ............... <br>
+                              <i class="bx bx-time" aria-hidden="true"></i> Pukul : ............... <br>
+                              <i class="bx bx-home" aria-hidden="true"></i> Alamat : ............... <br>
+                              </p>
+                            </div>
+                            <div class="col-lg-4" style="text-align: center;">
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
+                              <img src="">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          
+        </div>
+      </div>
+    </section>
+    <!-- ======= END EVENT SECTION ======= -->
+
+
 
     <!-- ======= Facts Section ======= -->
     <section id="facts" class="facts">
@@ -240,144 +406,12 @@
       </div>
     </section><!-- End Facts Section -->
 
-    <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Skills Section -->
-
-    <!-- ======= Resume Section ======= -->
-    <section id="resume" class="resume">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6">
-            <h3 class="resume-title">Sumary</h3>
-            <div class="resume-item pb-0">
-              <h4>Brandon Johnson</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
-              <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
-              </ul>
-            </div>
-
-            <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-            </div>
-            <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
-              <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Resume Section -->
-
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
+          <h2>Our Gallery</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -385,9 +419,6 @@
           <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
         </div>
@@ -476,7 +507,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div>Portfolio
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
@@ -524,7 +555,9 @@
 
       </div>
     </section><!-- End Portfolio Section -->
+    
 
+    <?php /*
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container" data-aos="fade-up">
@@ -618,13 +651,14 @@
 
       </div>
     </section><!-- End Services Section -->
+    */ ?>
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Testimonials</h2>
+          <h2>WISH FROM OUR FRIENDS</h2>
         </div>
 
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
@@ -707,7 +741,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>RSPV <i class="bx bx-envelope-open"></i></h2>
         </div>
 
         <div class="row mt-1">
@@ -739,19 +773,22 @@
           <div class="col-lg-8 mt-5 mt-lg-0">
 
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+              
+                <div class="form-group mt-3">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" required>
                 </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="no_hp" id="no_hp" placeholder="Nomor Handphone / WhatsApp (08xxxxx)" required>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              <select class="form-control form-select" name="hadir" aria-label="Default select example" required>
+                <option selected>Pilih Kehadiran Undangan</option>
+                <option value="YA">Menghadiri Undangan</option>
+                <option value="TIDAK">Tidak Menghadiri Undangan</option>
+              </select>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Doa dan harapan untuk Pengantin" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -773,24 +810,21 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Brandon Johnson</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-      <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-      <div class="copyright">
-        &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: [license-url] -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      <h3>Rega & Gita</h3>
+      <p>Wedding Invitation</p>
+      <div class="copyright" style="font-size: 10px;">
+        &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved | 
+          <span style="font-size: 10px;">Designed by <a href="">BootstrapMade</a> </span> <br>
+          <span style="font-size: 15px;">Modify with &hearts; by. <a href="https://febroherdyanto.id">Febro Herdyanto</a></span><br><br>
+          <div class="social-links">
+            <a href="mailto:febroherdyanto@outlook.com" class="google-plus"><i class="bx bx-envelope"></i></a>
+            <a href="https://linkedin.com/in/febroherdyanto" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <a href="https://github.com/febroherdyanto" class="twitter"><i class="bx bxl-github"></i></a>
+            <a href="https://t.me/febroherdyanto" class="telegram"><i class="bx bxl-telegram"></i></a>
+            <a href="https://twitter.com/febroherdyanto" class="twitter"><i class="bx bxl-twitter"></i></a>
+            <a href="https://www.facebook.com/FebroHerdyantoAlmura" class="facebook"><i class="bx bxl-facebook"></i></a>
+            <a href="https://instagram.com/febroherdyanto" class="instagram"><i class="bx bxl-instagram"></i></a>
+          </div>
       </div>
     </div>
   </footer><!-- End Footer -->

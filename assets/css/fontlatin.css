@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'uvf_aphrodite_proregular';
+    src: url('../fonts/uvf_aphrodite_pro-webfont.woff2') format('woff2'),
+         url('../fonts/uvf_aphrodite_pro-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.fontlatin{
+    font-family: 'uvf_aphrodite_proregular';
+}
