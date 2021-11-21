@@ -88,6 +88,11 @@
       }
     }, 1000);
     </script>
+    <script>
+      $(document).ready(function(){
+        $("#myModal").modal('show');
+      });
+    </script>
 
   <!-- =======================================================
   * Template Name: MyResume - v4.3.0
@@ -98,6 +103,25 @@
 </head>
 
 <body>
+
+<!-- ========== MODAL WELCOME PAGE ========== -->
+<div id="myModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Rega Fitrian & Gita Puspitasari Wedding</h5>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+				<p>Halo, Selamat Datang ..........  di Wedding Invitation Rega & Gita</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ========== END MODAL WELCOME PAGE ========== -->
+
+
+
 
   <!-- ======= Mobile nav toggle button ======= -->
   <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
