@@ -25,7 +25,7 @@
 
 
 <footer>
-    <a href="main/index.php" style="text-decoration: none;">
+    <a href="doc.php" style="text-decoration: none;">
         <span><i><i class="fa fa-images"></i> View Documentation</i></span>
     </a>
 </footer>
