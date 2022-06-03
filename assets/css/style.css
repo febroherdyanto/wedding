@@ -82,6 +82,9 @@ body, html {
   height: 40px;
   margin-top: -10px;
 }
+
+
+
 .container .box .role .block {
   width: 0%;
   height: inherit;
@@ -92,6 +95,7 @@ body, html {
   display: flex;
 }
 .container .box .role p {
+  /*
     padding-top: 20px;
   width: 90%;
   overflow-wrap: break-word;
@@ -105,6 +109,23 @@ body, html {
   font-size: auto;
   text-transform: uppercase;
   letter-spacing: 3px;
+  */
+  
+  font-family: "Lato";
+  color: #ffffff;
+  font-size: auto;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -webkit-animation: mainFadeIn 2s forwards;
+  -o-animation: mainFadeIn 2s forwards;
+  animation: mainFadeIn 2s forwards;
+  animation-delay: 1.6s;
+  opacity: 0;
+  display: flex;
+  align-items: baseline;
+  position: relative;
 }
 
 @keyframes mainBlock {
