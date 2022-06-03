@@ -15,6 +15,7 @@
             <h1>Hi Nama Tamu Undangan!<span></span></h1>
         </div>
         <br>
+        <br>
         <div class="role">
             <div class="block"></div>
             <p>You're invited on Febro and Mustika Wedding's</p>

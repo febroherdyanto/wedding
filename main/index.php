@@ -168,96 +168,84 @@
                   <!-- Nav tabs -->
                   <div class="row">
                     <div class="col-lg-12" style="text-align: center;">
-
                       
-                      <div class="col-lg-12">
-                      <ul class="nav nav-pills" style="text-align: center; font-size: 20px; font-color: black;">
-                        <li class="nav-item">
-                          <a class="nav-link" href="#jakad" aria-controls="jakad" role="tab" data-toggle="tab"><i class="bx bx-home-heart" aria-hidden="true"></i> <p>Akad Nikah</p></a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="#jresepsi" aria-controls="jresepsi" role="tab" data-toggle="tab"><i class="bx bx-building-house" aria-hidden="true"></i></i>
-                          <p>Resepsi</p></a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="#jngunduh" aria-controls="jngunduh" role="tab" data-toggle="tab"><i class="bx bxs-institution" aria-hidden="true"></i>
-                          <p>Ngunduh</p></a>
-                        </li>
-                      </ul>
+                      <div class="row">
+                        <div class="col lg-3">
+                          <h3 class="semi-bold fontlatin" style="text-align: center;">Akad Nikah</h3>
+                          <hr>
+                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?
+
+                          <hr>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
+
+                          <!-- // Feature Add to Calendar -->
+                          <div class="row d-flex justify-content-center">
+                            <div class="col col-sm-12">
+                              <span style="color: black; font-weight:bold;">Add to Calendar :</span>
+                              <br>
+                                  <a href="https://www.addevent.com/event/dL13921418+google" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-google-plus-g fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/dL13921418+apple" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-apple fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/dL13921418+outlook" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-microsoft fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/dL13921418+yahoo" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-yahoo fa-xl"></i></a>
+                            </div>
+                          </div>
+                          <hr>
+                          <!-- // End of Feature Add to Calendar -->
+                        </div>
+                        <br>
+
+                        <div class="col lg-3">
+                          <h3 class="semi-bold fontlatin" style="text-align: center;">Resepsi Pernikahan</h3>
+                          <hr>
+                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?
+
+                          <hr>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
+                          
+                          <!-- // Feature Add to Calendar -->
+                          <div class="row d-flex justify-content-center">
+                            <div class="col col-sm-12">
+                              <span style="color: black; font-weight:bold;">Add to Calendar :</span>
+                              <br>
+                                  <a href="https://www.addevent.com/event/yt13921397+google" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-google-plus-g fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/yt13921397+apple" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-apple fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/yt13921397+outlook" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-microsoft fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/yt13921397+yahoo" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-yahoo fa-xl"></i></a>
+                            </div>
+                          </div>
+                          <hr>
+                          <!-- // End of Feature Add to Calendar -->
+                        </div>
+                        <br>
+                        
+                        <div class="col lg-3">
+                          <h3 class="semi-bold fontlatin" style="text-align: center;">Ngunduh Mantu</h3>
+                          <hr>
+                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?
+
+                          <hr>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7253.692839152754!2d111.66113318140502!3d-7.56363190399414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79b8005d48f553%3A0xe15de11915564fa2!2sCMJ7%2BXG6%2C%20Blimbing%2C%20Klecorejo%2C%20Kec.%20Mejayan%2C%20Kabupaten%20Madiun%2C%20Jawa%20Timur%2063153!5e0!3m2!1sid!2sid!4v1654286186914!5m2!1sid!2sid" width="350" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                          
+                          <!-- // Feature Add to Calendar -->
+                          <div class="row d-flex justify-content-center">
+                            <div class="col col-sm-12">
+                              <span style="color: black; font-weight:bold;">Add to Calendar :</span>
+                              <br>
+                                  <a href="https://www.addevent.com/event/Xa13921119+google" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-google-plus-g fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/Xa13921119+apple" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-apple fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/Xa13921119+outlook" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-microsoft fa-xl"></i></a>&nbsp;&nbsp;
+                                  <a href="https://www.addevent.com/event/Xa13921119+yahoo" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-yahoo fa-xl"></i></a>
+                            </div>
+                          </div>
+                          <hr>
+                          <!-- // End of Feature Add to Calendar -->
+                        </div>
                       </div>
-
-
+                      
                     </div>
                   </div>
                   <!-- end design process steps--> 
-                  
-                  
-                  
-                  <!-- Tab panes -->
-                  <div class="tab-content">
-                    <div role="tabpanel" class="row tab-pane in active" id="jakad">
-                      <div class="design-process-content">
-                        <div class="row">
-                          <div class="col-lg-12">
-                            <div class="col-lg-8">
-                              <h3 class="semi-bold fontlatin" style="text-align: center;">Akad Nikah</h3>
-                              <p style="font-size: ; line-height: ;">InsyaAllah Akad Nikah akan diselenggarakan pada : </p>
-                              <p style="font-size: ;"><i class="bx bx-calendar" aria-hidden="true"></i> Hari, Tanggal : ............... <br>
-                              <i class="bx bx-time" aria-hidden="true"></i> Pukul : ............... <br>
-                              <i class="bx bx-home" aria-hidden="true"></i> Alamat : ............... <br>
-                              </p>
-                            </div>
-                            <div class="col-lg-4" style="text-align: center;">
-                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
-                              <img src="">
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-
-                    <div role="tabpanel" class="row tab-pane" id="jresepsi">
-                    <div class="design-process-content">
-                        <div class="row">
-                          <div class="col-lg-12">
-                            <div class="col-lg-8">
-                              <h3 class="semi-bold fontlatin" style="text-align: center;">Resepsi Pernikahan</h3>
-                              <p style="font-size: ; line-height: ;">InsyaAllah Resepsi Pernikahan akan diselenggarakan pada : </p>
-                              <p style="font-size: ;"><i class="bx bx-calendar" aria-hidden="true"></i> Hari, Tanggal : ............... <br>
-                              <i class="bx bx-time" aria-hidden="true"></i> Pukul : ............... <br>
-                              <i class="bx bx-home" aria-hidden="true"></i> Alamat : ............... <br>
-                              </p>
-                            </div>
-                            <div class="col-lg-4" style="text-align: center;">
-                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
-                              <img src="">
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-
-                    <div role="tabpanel" class="row tab-pane" id="jngunduh">
-                    <div class="design-process-content">
-                        <div class="row">
-                          <div class="col-lg-12">
-                            <div class="col-lg-8">
-                              <h3 class="semi-bold fontlatin" style="text-align: center;">Ngunduh Mantu</h3>
-                              <p style="font-size: ; line-height: ;">InsyaAllah Ngunduh Mantu akan diselenggarakan pada : </p>
-                              <p style="font-size: ;"><i class="bx bx-calendar" aria-hidden="true"></i> Hari, Tanggal : ............... <br>
-                              <i class="bx bx-time" aria-hidden="true"></i> Pukul : ............... <br>
-                              <i class="bx bx-home" aria-hidden="true"></i> Alamat : ............... <br>
-                              </p>
-                            </div>
-                            <div class="col-lg-4" style="text-align: center;">
-                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
-                              <img src="">
-                            </div>
-                          </div>
-                        </div>
-                      </div>
+                                    
                     </div>
                   </div>
                 </div>
