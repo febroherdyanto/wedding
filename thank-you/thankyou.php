@@ -14,7 +14,7 @@
     <div class="box">
         <div class="title">
             <span class="block"></span>
-            <h1>Hi Mohamad Farizal Arifin!<span></span></h1>
+            <h1>Hi [Nama Tamu Undangan]!<span></span></h1>
         </div>
         <br>
         <div class="role">

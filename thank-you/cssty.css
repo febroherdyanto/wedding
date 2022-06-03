@@ -6,6 +6,7 @@
 
 body, html {
   overflow: hidden;
+  background: #232323;
 }
 
 .container {
@@ -17,7 +18,7 @@ body, html {
   align-items: center;
 }
 .container .box {
-  width: 500px;
+  width: 400px;
   height: 250px;
   position: relative;
   display: flex;
@@ -25,7 +26,7 @@ body, html {
   flex-direction: column;
 }
 .container .box .title {
-  width: 100%;
+  width: 90%;
   position: relative;
   display: flex;
   align-items: center;
@@ -43,6 +44,8 @@ body, html {
   font-family: "Poppins";
   color: #fff;
   font-size: auto;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
   -webkit-animation: mainFadeIn 2s forwards;
   -o-animation: mainFadeIn 2s forwards;
   animation: mainFadeIn 2s forwards;
@@ -67,6 +70,8 @@ body, html {
   position: absolute;
   bottom: 13px;
   right: -12px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 .container .box .role {
   width: 100%;
@@ -87,17 +92,18 @@ body, html {
 }
 .container .box .role p {
     padding-top: 20px;
-  width: 100%;
+  width: 90%;
   animation: secFadeIn 2s forwards;
   animation-delay: 3.2s;
   opacity: 0;
   font-weight: 400;
   font-family: "Lato";
   color: #ffffff;
-  font-size: 18px;
+  font-size: auto;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
   text-transform: uppercase;
   letter-spacing: 3px;
-  word-wrap: break-word;
 }
 
 @keyframes mainBlock {

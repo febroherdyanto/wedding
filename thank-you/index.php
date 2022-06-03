@@ -13,7 +13,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
 
-    <script src="../assets/js/asset.js"></script>
     
     <title>Thank You Letter | The Wedding of Febro Herdyanto and Mustikasari</title>
 </head>
