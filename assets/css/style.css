@@ -111,11 +111,10 @@ body, html {
   letter-spacing: 3px;
   */
    
-  font-family: "Lato";
+  font-family: "Poppins";
   color: #ffffff;
   font-size: auto;
   text-transform: uppercase;
-  letter-spacing: 3px;
   overflow-wrap: break-word;
   word-wrap: break-word;
   -webkit-animation: mainFadeIn 2s forwards;
