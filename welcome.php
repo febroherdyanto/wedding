@@ -15,7 +15,7 @@
         <br>
         <div class="role">
             <div class="block"></div>
-            <p>You're invited on Febro and Mustika Weddings</p>
+            <p>You're invited on Febro and Mustika Wedding's</p>
         </div>
     </div>
 
