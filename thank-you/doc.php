@@ -1,1 +1,1 @@
-<img src="gift.png" width="100%" height="100%">
+<img src="gift.png" width="auto" height="100%">

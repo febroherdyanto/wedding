@@ -76,7 +76,8 @@
               <div class="col-lg-12 content" >
                 <h3>Febro Herdyanto</h3>
                 <p class="fst-italic">
-                  Putra keempat dari Bapak Eddy Irianto dan Ibu Herry Sri I. <br>
+                  <a href="https://www.instagram.com/febroherdyanto/" style="text-decoration: none;"><i class="bi bi-instagram"></i> @febroherdyanto</a><br>
+                  Putra dari Bapak Eddy Irianto dan Ibu Herry Sri<br>
                   Klecorejo, Mejayan, Madiun
                 </p>
               </div>
@@ -91,7 +92,8 @@
               <div class="col-lg-12 content">
                 <h3>Mustikasari</h3>
                 <p class="fst-italic">
-                  Putri kedua dari Bapak Suratman dan Ibu Ranti.<br>
+                  <a href="https://www.instagram.com/mustikaa16_/" style="text-decoration: none;"><i class="bi bi-instagram"></i> @mustikaa16_</a><br>
+                  Putri dari Bapak Suratman dan Ibu Ranti.<br>
                   Kedung Banteng, Pilangkenceng, Madiun
                 </p>
               </div>
@@ -407,12 +409,14 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="assets/img/farizal.jpeg" class="testimonial-img" alt="">
+                <h3>M. Farizal Arifin</h3>
+                <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Happy Wedding, Febro! <br>
+                  Semoga jadi pasangan yg harmonis bahagia selalu. <br>
+                  "Pergi ke Makkah bawa sajadah, Semoga sakinah mawadah warahmah”.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -420,12 +424,15 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <img src="assets/img/susi.jpeg" class="testimonial-img" alt="">
+                <h3>Susi Dwi Widyaningsih</h3>
+                <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Happy wedding Mustika sahabatku.<br>
+                  Selamat menempuh hidup baru ya.
+                  Semoga menjadi keluarga yang sakinah, mawadah, dan warohmah. Semoga pernikahanmu menjadi ladang ibadahmu dan semoga segera diberikan momongan.<br>
+                  Best wishes on this wonderful journey, as you build your new lives together.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -433,9 +440,9 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <img src="assets/img/faza.jpeg" class="testimonial-img" alt="">
+                <h3>Faza Ardan Kusuma</h3>
+                <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                   Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
@@ -446,12 +453,12 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <img src="assets/img/rani.jpg" class="testimonial-img" alt="">
+                <h3>Rani Ramdayani</h3>
+                <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  Pernah dengar tidak? Katanya sebelum kita lahir kedunia, terlebih dulu kita diperlihatkan perjalan hidup kita dari awal sampai akhir. Lalu Tuhan akan memberikan kita pilihan untuk lahir atau tidak. Tuhan bertanya hingga sampai 7 kali, agar kita tidak menyesal. Lalu saat ini, melihat kamu tumbuh dengan baik dan cantik seperti sekarang artinya ada satu moment terbaik dalam hidupmu yang memutuskanmu untuk lahir kedunia. Mungkin moment inilah salah satunya. Moment sekali seumur hidupmu yang akan terkenang, sampai kelak anak dan cucumu lahir. <br>So, Congratulation for your wedding day^^ Wishing you everlasting love, joy and happiness, just like unending circle of your wedding rings~ Barakallah^^
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -459,9 +466,22 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/sindy.jpeg" class="testimonial-img" alt="">
+                <h3>Sindy Saputri</h3>
+                <h4>Our Best Friends</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Barakallahu lakum wa baraka alaikum. Selamat ya my bestie baik ku semoga Allah swt. Menyempurnakan kebahagiaan kalian dan menjadikan pernikahan kalian sbg ibadah kepadaNya. Selamat menempuh hidup baru dengan pasangan yg telah Allah pilih untukmu. Semoga rahmat dan kasih sayangNya selalu menyertai kalian, pintu rezeki selalu terbuka lebar, <br>menjadi keluarga yg sakinah mawadah warahmah dan dikaruniai keturunan yg sholeh sholehah Aamiin.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/user.png" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                   Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
@@ -491,20 +511,15 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Location</h4>
+                <p>Mejayan - Pilangkenceng, Madiun, East Java</p>
               </div>
 
               <div class="email">
-                <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
-                <p>info@example.com</p>
-              </div>
-
-              <div class="phone">
-                <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <i class="bi bi-people"></i>
+                <h4>Instagram</h4>
+                <p><a href="https://www.instagram.com/febroherdyanto/" style="text-decoration: none;">@febroherdyanto</a> <br>
+                    <a href="https://www.instagram.com/mustikaa16_/" style="text-decoration: none;">@mustikaa16_</a></p>
               </div>
 
             </div>
@@ -518,9 +533,6 @@
                 <div class="form-group mt-3">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" required>
                 </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="no_hp" id="no_hp" placeholder="Nomor Handphone / WhatsApp (08xxxxx)" required>
-              </div>
               <div class="form-group mt-3">
               <select class="form-control form-select" name="hadir" aria-label="Default select example" required>
                 <option selected>Pilih Kehadiran Undangan</option>
@@ -536,7 +548,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Send Message <i class="bx bx-xl bx-send"></i></button></div>
             </form>
 
           </div>
@@ -551,21 +563,48 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Rega & Gita</h3>
-      <p>Wedding Invitation</p>
+      <h1><i>Himbauan <i class="fa fa-bullhorn"></i> </i></h1>
+      <h4>Tanpa mengurangi rasa hormat, para tamu wajib mengikuti Protokol Kesehatan sebagai berikut.</h4>
+      <div class="row d-flex justify-content-center">
+        <div class="col-sm-3">
+          <img src="assets/img/mask.png" class="rounded mx-auto d-block" width="100px" height="100px">
+          Wajib Menggunakan Masker
+        </div>
+        <div class="col-sm-3">
+          <img src="assets/img/handwash.png" class="rounded mx-auto d-block" width="100px" height="100px">
+          Cuci Tangan Menggunakan Sabun / <i>Hand Sanitizer</i>
+        </div>
+        <div class="col-sm-3">
+          <img src="assets/img/vaccine.png" class="rounded mx-auto d-block" width="100px" height="100px">
+          Sudah Melakukan Vaksin COVID-19
+        </div>
+      </div>
+      <div class="row d-flex justify-content-center">
+        <div class="col-sm-3">
+          <img src="assets/img/thermo.png" class="rounded mx-auto d-block" width="100px" height="100px">
+          Suhu Tubuh Tidak Lebih dari 38 &deg;C
+        </div>
+        <div class="col-sm-3">
+          <img src="assets/img/distancing.png" class="rounded mx-auto d-block" width="100px" height="100px">
+          Menjaga Jarak Dengan Tamu Undangan
+        </div>
+        <div class="col-sm-3">
+          <img src="assets/img/berjabat.png" class="rounded mx-auto d-block" width="100px" height="100px">
+          Mengurangi Berjabat Tangan Dengan Tamu Undangan
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer" style="background-color: #f0f2f5;">
+    <div class="container">
+      <h5><i>Dari kami yang berbahagia.</i></h5>
+      <h3 style="font-family: 'uvf_aphrodite_proregular';">Febro & Mustika</h3>
+      <p>Beserta keluarga</p>
       <div class="copyright" style="font-size: 10px;">
         &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved | 
-          <span style="font-size: 10px;">Designed by <a href="">BootstrapMade</a> </span> <br>
-          <span style="font-size: 15px;">Modify with &hearts; by. <a href="https://febroherdyanto.id">Febro Herdyanto</a></span><br><br>
-          <div class="social-links">
-            <a href="mailto:febroherdyanto@outlook.com" class="google-plus"><i class="bx bx-envelope"></i></a>
-            <a href="https://linkedin.com/in/febroherdyanto" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            <a href="https://github.com/febroherdyanto" class="twitter"><i class="bx bxl-github"></i></a>
-            <a href="https://t.me/febroherdyanto" class="telegram"><i class="bx bxl-telegram"></i></a>
-            <a href="https://twitter.com/febroherdyanto" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="https://www.facebook.com/FebroHerdyantoAlmura" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="https://instagram.com/febroherdyanto" class="instagram"><i class="bx bxl-instagram"></i></a>
-          </div>
+          <span style="font-size: 10px;">Designed by <a href="">BootstrapMade</a> </span>
       </div>
     </div>
   </footer><!-- End Footer -->
