@@ -94,7 +94,7 @@
                 <p class="fst-italic">
                   <a href="https://www.instagram.com/mustikaa16_/" style="text-decoration: none;"><i class="bi bi-instagram"></i> @mustikaa16_</a><br>
                   Putri dari Bapak Suratman dan Ibu Ranti.<br>
-                  Kedung Banteng, Pilangkenceng, Madiun
+                  Kedungbanteng, Pilangkenceng, Madiun
                 </p>
               </div>
             </div>
