@@ -76,7 +76,7 @@
               <div class="col-lg-12 content" >
                 <h3>Febro Herdyanto</h3>
                 <p class="fst-italic">
-                  <a href="https://www.instagram.com/febroherdyanto/" style="text-decoration: none;"><i class="bi bi-instagram"></i> @febroherdyanto</a><br>
+                  <a href="https://www.instagram.com/febroherdyanto/" style="text-decoration: none;"><i class="fa-brands fa-instagram"></i> @febroherdyanto</a><br>
                   Putra dari Bapak Eddy Irianto dan Ibu Herry Sri<br>
                   Klecorejo, Mejayan, Madiun
                 </p>
