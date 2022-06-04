@@ -18,7 +18,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
 
     <script src="assets/js/asset.js"></script>
-    
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>The Wedding of Febro Herdyanto and Mustikasari</title>
 </head>
 <body>
