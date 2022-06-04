@@ -91,8 +91,8 @@
               <img src="assets/img/mustika.jpeg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
               <div class="col-lg-12 content">
                 <h3>Mustikasari</h3>
+                  <a href="https://www.instagram.com/mustikaa16_/"><i class="bi bi-instagram"></i> @mustikaa16_</a><br>
                 <p class="fst-italic">
-                  <a href="https://www.instagram.com/mustikaa16_/" style="text-decoration: none;"><i class="bi bi-instagram"></i> @mustikaa16_</a><br>
                   Putri dari Bapak Suratman dan Ibu Ranti.<br>
                   Kedungbanteng, Pilangkenceng, Madiun
                 </p>
@@ -518,8 +518,8 @@
               <div class="email">
                 <i class="bi bi-people"></i>
                 <h4>Instagram</h4>
-                <p><a href="https://www.instagram.com/febroherdyanto/" style="text-decoration: none;">@febroherdyanto</a> <br>
-                    <a href="https://www.instagram.com/mustikaa16_/" style="text-decoration: none;">@mustikaa16_</a></p>
+                <p><a href="https://www.instagram.com/febroherdyanto/">@febroherdyanto</a> <br>
+                    <a href="https://www.instagram.com/mustikaa16_/">@mustikaa16_</a></p>
               </div>
 
             </div>
