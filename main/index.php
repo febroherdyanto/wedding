@@ -32,9 +32,8 @@
       <ul>
         <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
         <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Our Profile</span></a></li>
-        <li><a href="#story" class="nav-link scrollto"><i class="bx bx-heart"></i> <span>Our Story</span></a></li>
         <li><a href="#event" class="nav-link scrollto"><i class="bx bx-calendar-heart"></i> <span>Event</span></a></li>
-        <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-images"></i> <span>Our Galerry</span></a></li>
+        <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-images"></i> <span>Our Memories</span></a></li>
         <li><a href="#testimonials" class="nav-link scrollto"><i class="bx bx-star"></i> <span>Wish</span></a></li>
         <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>RSPV</span></a></li>
       </ul>
@@ -64,8 +63,9 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2><i class="fa fa-user"></i> OUR PROFILE</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <img src="../assets/img/bismillah.png" height="80px" width="250px" class="image-fluid">
+          <p>Assalamu'alaikum Warahmatullahi Wabarakaatuh<br>
+              Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan kami.</p>
         </div>
 
 
@@ -104,59 +104,12 @@
     </section><!-- End About Section -->
 
 
-    <!-- ======= OUR STORY ======= -->
-    <section id="story" class="story">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2><i class="bx bx-heart"></i> LOVE STORY</h2>
-          <p><i>Febro & Mustika</i></p>
-        </div>
-
-
-        <div class="row">
-          <div class="col-lg-1"> </div>
-          <div class="col-lg-9">
-            <div class="resume">
-              <h3 class="resume-title">Perjalanan Kisah Cinta Kami</h3>
-                <div class="resume-item">
-                  <h4>First Meet</h4>
-                  <h5>2016</h5>
-                  <p><em>Caruban, Madiun</em></p>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
-                </div>
-                <div class="resume-item">
-                  <h4>Dating</h4>
-                  <h5>April 2016</h5>
-                  <p><em>Caruban, Madiun</em></p>
-                  <p>LLorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
-                </div>
-                <div class="resume-item">
-                  <h4>Engagement</h4>
-                  <h5>2016 - 2019</h5>
-                  <p><em>Madiun - Cikarang</em></p>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
-                </div>
-                <div class="resume-item">
-                  <h4>Wedding</h4>
-                  <h5>Mei 2021</h5>
-                  <p><em>Caruban, Madiun</em></p>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?</p>
-                </div>
-              </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ======= END OUR STORY ======= -->
-
     <section id="event" class="event">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2><i class="bx bx-calendar"></i> EVENT SCHEDULE</h2>
-          <p><i>Wedding Information</i></p>
+        <div class="text-center">
+          <h2 class="fontlatin" style="font-weight: bold;"><i class="bx bx-calendar"></i> Save The Date</h2>
+          <p><i>Untuk melaksanakan syariat Agama-Mu, mengikuti Sunnah Rasul-Mu dalam membentuk keluarga yang Sakinah, Mawaddah, Warahmah yang InsyaAllah akan diselenggarakan pada hari :</i></p>
         </div>
         
         <div class="row">
@@ -175,11 +128,16 @@
                         <div class="col lg-3">
                           <h3 class="semi-bold fontlatin" style="text-align: center;">Akad Nikah</h3>
                           <hr>
-                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?
+                          <center>
+                            <h3>Kamis Legi, <br>22 September 2022</h3>
+                            <h4>Pukul : 08.00 WIB</h4>
+                            <b>Bertempat di kediaman Mempelai Wanita</b><br>
+                            <i>Dukuh Wates RT/RW 017/003, Desa Kedungbanteng, Pilangkenceng, Madiun</i>
+                          </center>
 
                           <hr>
                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
-
+                            <br><br>
                           <!-- // Feature Add to Calendar -->
                           <div class="row d-flex justify-content-center">
                             <div class="col col-sm-12">
@@ -199,11 +157,16 @@
                         <div class="col lg-3">
                           <h3 class="semi-bold fontlatin" style="text-align: center;">Resepsi Pernikahan</h3>
                           <hr>
-                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?
+                          <center>
+                            <h3>Rabu Kliwon malam Kamis Legi, <br> 21-22 September 2022</h3>
+                            <h4>Pukul : 13.00 WIB</h4>
+                            <b>Bertempat di kediaman Mempelai Wanita</b><br>
+                            <i>Dukuh Wates RT/RW 017/003, Desa Kedungbanteng, Pilangkenceng, Madiun</i>
+                          </center>
 
                           <hr>
                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6653.017618957977!2d111.63500860575547!3d-7.475417458373998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMjgnMjYuMyJTIDExMcKwMzgnMTguMyJF!5e0!3m2!1sid!2sid!4v1635677669334!5m2!1sid!2sid" width="350" height="250" style="border:0; border-radius: 3%;" allowfullscreen="" loading="lazy"></iframe>
-                          
+                            <br><br>
                           <!-- // Feature Add to Calendar -->
                           <div class="row d-flex justify-content-center">
                             <div class="col col-sm-12">
@@ -223,11 +186,16 @@
                         <div class="col lg-3">
                           <h3 class="semi-bold fontlatin" style="text-align: center;">Ngunduh Mantu</h3>
                           <hr>
-                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio maxime consectetur veritatis iste tempore minima officia fugiat, maiores eaque ipsum at, sunt sapiente dolores odit. Illo pariatur incidunt facere error deleniti temporibus consequuntur exercitationem iure eaque, laborum, sint, voluptas fugiat?
+                          <center>
+                            <h3>Sabtu Pon, <br> 24 September 2022</h3>
+                            <h4>Pukul : 10.00 WIB</h4>
+                            <b>Bertempat di kediaman Mempelai Pria</b><br>
+                            <i>Perum. Star Regency Blok A, Dusun Blimbing, Desa Klecorejo, Mejayan, Madiun</i>
+                          </center>
 
                           <hr>
                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7253.692839152754!2d111.66113318140502!3d-7.56363190399414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79b8005d48f553%3A0xe15de11915564fa2!2sCMJ7%2BXG6%2C%20Blimbing%2C%20Klecorejo%2C%20Kec.%20Mejayan%2C%20Kabupaten%20Madiun%2C%20Jawa%20Timur%2063153!5e0!3m2!1sid!2sid!4v1654286186914!5m2!1sid!2sid" width="350" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                          
+                            <br><br>
                           <!-- // Feature Add to Calendar -->
                           <div class="row d-flex justify-content-center">
                             <div class="col col-sm-12">
@@ -265,9 +233,9 @@
     <section id="portfolio" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2><i class="fa fa-images"></i> Our Gallery</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <div class="text-center">
+          <h2 class="fontlatin" style="font-weight: bold;"><i class="bx bx-heart"></i> Our Memories</h2>
+          <p><br></p>
         </div>
 
 
@@ -400,8 +368,8 @@
     <section id="testimonials" class="testimonials section-bg">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2><i class="bx bx-star"></i> WISH FROM OUR FRIENDS</h2>
+        <div class="text-center">
+          <h2 class="fontlatin" style="font-weight: bold;"><i class="bx bx-star"></i> Wish from Our Friends</h2>
         </div>
 
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
@@ -479,12 +447,30 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/user.png" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <img src="assets/img/dean.jpeg" class="testimonial-img" alt="">
+                <h3>Dean, Rudi, Reiza</h3>
                 <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Dear Febro Herdyanto, Dari kami teman teman CALON SARJANA, Sekarang sudah Nikah aja, jadi jangan lupa sekarang udah punya istri kalo kemana-mana harus izin ya . pesan kami cuma satu untuk febro jadilah Suami yang bertanggung jawab . Dan untuk Mustika semoga menjadi istri yang setia.<br>
+                  "Pulang kampung ke tanah jawa" -
+                  "Ke alun-alun madiun naik kuda" <br>
+                  "Untuk Febro dan mustika" - "Semoga sakinah mawadah warahmah pernikahannya"<br>
+                  بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِى خَيْرٍ 
+                  <br> “Semoga Allah memberikan berkah untukmu, semoga Allah memberi berkah padamu dan menghimpun kalian berdua (sebagai suami istri) dalam kebaikan.” Aamiin
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/user.png" class="testimonial-img" alt="">
+                <h3>Muh. Farhan Alfarizi</h3>
+                <h4>Our Best Friends</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  lorem ipsum
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -501,61 +487,58 @@
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>RSPV <i class="bx bx-envelope-open"></i></h2>
-        </div>
-
-        <div class="row mt-1">
-
-          <div class="col-lg-4">
-            <div class="info">
-              <div class="address">
-                <i class="bi bi-geo-alt"></i>
-                <h4>Location</h4>
-                <p>Mejayan - Pilangkenceng, Madiun, East Java</p>
-              </div>
-
-              <div class="email">
-                <i class="bi bi-people"></i>
-                <h4>Instagram</h4>
-                <p><a href="https://www.instagram.com/febroherdyanto/">@febroherdyanto</a> <br>
-                    <a href="https://www.instagram.com/mustikaa16_/">@mustikaa16_</a></p>
-              </div>
-
-            </div>
-
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="section-title">
+            <h3 style="font-weight: bold;" class="fontlatin"><i class="fa fa-calendar-check"></i> Konfirmasi Kehadiran</h3>
           </div>
-
-          <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              
-                <div class="form-group mt-3">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" required>
-                </div>
-              <div class="form-group mt-3">
-              <select class="form-control form-select" name="hadir" aria-label="Default select example" required>
-                <option selected>Pilih Kehadiran Undangan</option>
-                <option value="YA">Menghadiri Undangan</option>
-                <option value="TIDAK">Tidak Menghadiri Undangan</option>
-              </select>
+            <form action="" method="post" role="form">
+              <div class="form-group">
+                <label for="namaKehadiran" style="color: #b5b5bd;">Nama Anda</label>
+                <input type="text" name="namaKehadiran" id="namaKehadiran" class="form-control" placeholder="Masukkan Nama Anda" required>
               </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Doa dan harapan untuk Pengantin" required></textarea>
+              <div class="form-group">
+                <label for="statusKehadiran" style="color: #b5b5bd;">Status Kehadiran</label>
+                <select class="form-control form-select" name="kehadiran" required>
+                  <option selected>Pilih Kehadiran Undangan</option>
+                  <option value="YA">Menghadiri Undangan</option>
+                  <option value="TIDAK">Tidak Menghadiri Undangan</option>
+                </select>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+              <div class="form-group">
+                <label for="doaKehadiran" style="color: #b5b5bd;">Doa dan Harapan</label>
+                <textarea class="form-control" name="doaKehadiran" rows="4" placeholder="Ketika Doa dan harapan kepada Pengantin" required></textarea>
               </div>
-              <div class="text-center"><button type="submit">Send Message <i class="bx bx-xl bx-send"></i></button></div>
+              <div class="text-center"><button class="btn btn-primary" name="simpanKehadiran" type="submit">Konfirmasi</button></div>
             </form>
-
-          </div>
-
         </div>
 
+
+        <div class="col-sm-4">
+          <div class="section-title">
+            <h3 style="font-weight: bold;" class="fontlatin">Kirim Doa dan Harapan</h3>
+          </div>
+          
+          <form action="" method="post" role="form">
+              <div class="form-group">
+                <label for="namaKehadiran" style="color: #b5b5bd;">Dari :</label>
+                <input type="text" name="namaKehadiran" id="namaKehadiran" class="form-control" placeholder="Masukkan Nama Anda" required>
+              </div>
+              <div class="form-group">
+                <label for="doaKehadiran" style="color: #b5b5bd;">Ucapan : </label>
+                <textarea class="form-control" name="doaKehadiran" rows="4" placeholder="Ketika Doa dan harapan kepada Pengantin" required></textarea>
+              </div>
+              <div class="text-center"><button class="btn btn-primary" name="simpanKehadiran" type="submit">Kirim Ucapan</button></div>
+            </form>
+        </div>
+        <div class="col-sm-4">
+          <div class="section-title">
+            <h3 style="font-weight: bold;" class="fontlatin">Daftar Doa dan Harapan</h3>
+          </div>
+        </div>
       </div>
+
+    </div>
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
@@ -602,10 +585,11 @@
       <h5><i>Dari kami yang berbahagia.</i></h5>
       <h3 style="font-family: 'uvf_aphrodite_proregular';">Febro & Mustika</h3>
       <p>Beserta keluarga</p>
+      <?php /*
       <div class="copyright" style="font-size: 10px;">
         &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved | 
           <span style="font-size: 10px;">Designed by <a href="">BootstrapMade</a> </span>
-      </div>
+      </div> */ ?>
     </div>
   </footer><!-- End Footer -->
 
