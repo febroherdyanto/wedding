@@ -244,12 +244,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/firstmeet.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>First Meet</h4>
+                <p>at SMK Negeri 1 Mejayan</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/firstmeet.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our First Meet at SMK Negeri 1 Mejayan, Madiun on 2016"><i class="bx bx-zoom-in"></i></a>
                 </div>
               </div>
             </div>
@@ -259,36 +259,36 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Engagement</h4>
+                <p>at Madiun</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Engagement at Madiun on May 31, 2021"><i class="bx bx-zoom-in"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-zoom-in"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Engagement</h4>
+                <p>at Madiun</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Engagement at Madiun on May 31, 2021"><i class="bx bx-zoom-in"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/prewed-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Our Prewedding</h4>
+                <p>at Kebun Raya Bogor</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/prewed-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Prewedding at Kebun Raya Bogor on July 3, 2022"><i class="bx bx-zoom-in"></i></a>
                 </div>
               </div>
             </div>
@@ -296,12 +296,51 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/prewed-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Our Prewedding</h4>
+                <p>at Kebun Raya Bogor</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/prewed-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Prewedding at Kebun Raya Bogor on July 3, 2022"><i class="bx bx-zoom-in"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/prewed-4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Our Prewedding</h4>
+                <p>at Kebun Raya Bogor</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/prewed-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Prewedding at Kebun Raya Bogor on July 3, 2022"><i class="bx bx-zoom-in"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/prewed-3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Our Prewedding</h4>
+                <p>at Kebun Raya Bogor</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/prewed-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Prewedding at Kebun Raya Bogor on July 3, 2022"><i class="bx bx-zoom-in"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/prewed-6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Our Prewedding</h4>
+                <p>at Kebun Raya Bogor</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/prewed-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Prewedding at Kebun Raya Bogor on July 3, 2022"><i class="bx bx-zoom-in"></i></a>
                 </div>
               </div>
             </div>
@@ -309,51 +348,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/prewed-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Our Prewedding</h4>
+                <p>at Kebun Raya Bogor</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-zoom-in"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-zoom-in"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-zoom-in"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/prewed-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our Prewedding at Kebun Raya Bogor on July 3, 2022"><i class="bx bx-zoom-in"></i></a>
                 </div>
               </div>
             </div>
@@ -375,6 +375,19 @@
 
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/farhan.jpeg" class="testimonial-img" alt="">
+                <h3>Muh. Farhan Alfarizi</h3>
+                <h4>Our Best Friends</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Happy Wedding Bang Febro. Selamat menempuh hidup baru, semoga bahagia selalu , segera diberi momongan, Amiinn.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -414,7 +427,7 @@
                 <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Pernikahan bukanlah sebuah tujuan. Lebih dari itu, pernikahan adalah awal perjalanan panjang yang setiap detiknya akan kamu nikmati bersama pasanganmu. Selamat menempuh hidup baru
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -459,19 +472,6 @@
                   "Untuk Febro dan mustika" - "Semoga sakinah mawadah warahmah pernikahannya"<br>
                   بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِى خَيْرٍ 
                   <br> “Semoga Allah memberikan berkah untukmu, semoga Allah memberi berkah padamu dan menghimpun kalian berdua (sebagai suami istri) dalam kebaikan.” Aamiin
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/user.png" class="testimonial-img" alt="">
-                <h3>Muh. Farhan Alfarizi</h3>
-                <h4>Our Best Friends</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  lorem ipsum
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
