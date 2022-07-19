@@ -64,7 +64,7 @@
 
         <div class="section-title">
           <img src="../assets/img/bismillah.png" height="80px" width="250px" class="image-fluid">
-          <p>Assalamu'alaikum Warahmatullahi Wabarakaatuh<br>
+          <p><br>Assalamu'alaikum Warahmatullahi Wabarakaatuh<br>
               Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan kami.</p>
         </div>
 
@@ -72,7 +72,7 @@
         <div class="row" style="text-align: center;"> <!-- === DEFINE PERSONAL DETAIL ===-->
           <div class="col-lg-5" data-aos="fade-up">
             <div class="" style="">
-              <img src="assets/img/foto-febro.jpg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
+              <img src="assets/img/febro.jpg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
               <div class="col-lg-12 content" >
                 <h3>Febro Herdyanto</h3>
                   <a href="https://www.instagram.com/febroherdyanto/"><i class="fa-brands fa-instagram"></i> @febroherdyanto</a><br>
@@ -88,7 +88,7 @@
         
           <div class="col-lg-5" data-aos="fade-up">
             <div class="">
-              <img src="assets/img/mustika.jpeg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
+              <img src="assets/img/mustika.jpg" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
               <div class="col-lg-12 content">
                 <h3>Mustikasari</h3>
                   <a href="https://www.instagram.com/mustikaa16_/"><i class="bi bi-instagram"></i> @mustikaa16_</a><br>
@@ -104,6 +104,7 @@
     </section><!-- End About Section -->
 
 
+    <!-- ======= Event Section ======= -->
     <section id="event" class="event">
       <div class="container" data-aos="fade-up">
 
