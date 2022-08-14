@@ -1,1 +1,0 @@
-<img src="gift.png" width="auto" height="100%">
