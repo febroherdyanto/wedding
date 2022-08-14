@@ -477,6 +477,19 @@
               </div>
             </div><!-- End testimonial item -->
 
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="<?= base_url('/main/assets/img/nauval.jpeg'); ?>" class="testimonial-img" alt="">
+                <h3>Moch. Nauval Faris Muzaki</h3>
+                <h4>Our Best Friends</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Jangan tunggu kaya baru menikah karena pernikahan adalah tempat dilimpahkannya rezeki yang berlimpah, selamat menempuh hidup baru mas feb
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
           </div>
           <div class="swiper-pagination"></div>
         </div>
