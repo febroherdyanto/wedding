@@ -564,7 +564,7 @@
             <h3 style="font-weight: bold;" class="fontlatin">Daftar Doa dan Harapan</h3>
           </div>
           
-          <iframe src="<?php echo site_url('/doa_list');?>" height="350px">    </iframe>
+          <iframe src="<?php echo base_url('/doa_list');?>" height="350px">    </iframe>
         </div>
       </div>
 
