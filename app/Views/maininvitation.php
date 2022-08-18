@@ -516,7 +516,7 @@
               <div class="form-group">
                 <label for="statusKehadiran" style="color: #b5b5bd;">Status Kehadiran</label>
                 <select class="form-control form-select" name="statusKehadiran" required>
-                  <option selected>Pilih Kehadiran Undangan</option>
+                  <option value="">Pilih Kehadiran Undangan</option>
                   <option value="YA">Menghadiri Undangan</option>
                   <option value="MUNGKIN">Mungkin Menghadiri Undangan</option>
                   <option value="TIDAK">Tidak Menghadiri Undangan</option>
