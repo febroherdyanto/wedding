@@ -19,8 +19,8 @@ body, html {
   align-items: center;
 }
 .container .box {
-  width: 400px;
-  height: 250px;
+  width: 80%;
+  height: 400px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -234,8 +234,8 @@ body, html {
 
 /* ========================= */
 footer {
-    width: 300px;
-    height: 80px;
+    width: 300;
+    height: 60px;
     background: #ffb510;
     position: absolute;
     right: 0;
@@ -255,7 +255,8 @@ footer {
     font-family: "Poppins";
   }
   footer span i {
-    margin-right: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
     font-size: 20px;
     color: #232323;
     animation: icon 2s forwards;
