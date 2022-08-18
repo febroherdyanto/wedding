@@ -19,7 +19,7 @@ body, html {
   align-items: center;
 }
 .container .box {
-  width: 80%;
+  width: 95%;
   height: 400px;
   position: relative;
   display: flex;
