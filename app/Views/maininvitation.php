@@ -72,7 +72,7 @@
         <div class="row" style="text-align: center;"> <!-- === DEFINE PERSONAL DETAIL ===-->
           <div class="col-lg-5" data-aos="fade-up">
             <div class="" style="">
-              <img src="<?= base_url('/main/assets/img/febro.jpg'); ?>" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
+              <img src="<?= base_url('/main/assets/img/febrofix.png'); ?>" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
               <div class="col-lg-12 content" >
                 <h3>Febro Herdyanto</h3>
                   <a href="https://www.instagram.com/febroherdyanto/" target="_blank"><i class="fa-brands fa-instagram"></i> @febroherdyanto</a><br>
@@ -88,7 +88,7 @@
         
           <div class="col-lg-5" data-aos="fade-up">
             <div class="">
-              <img src="<?= base_url('/main/assets/img/mustika.jpg'); ?>" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
+              <img src="<?= base_url('/main/assets/img/mustikafix.png'); ?>" class="zoom1" style="border-radius:50%;" width="300px" height="300px">
               <div class="col-lg-12 content">
                 <h3>Mustikasari</h3>
                   <a href="https://www.instagram.com/mustikaa16_/" target="_blank"><i class="bi bi-instagram"></i> @mustikaa16_</a><br>

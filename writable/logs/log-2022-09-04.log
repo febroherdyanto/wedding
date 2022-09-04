@@ -1,0 +1,11 @@
+CRITICAL - 2022-09-04 15:03:57 --> Undefined variable: query
+in APPPATH\Views\doa_list.php on line 11.
+ 1 APPPATH\Views\doa_list.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\doa_list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Main.php(57): view()
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Main->doa_list()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
