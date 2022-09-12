@@ -383,7 +383,20 @@
                 <h4>Our Best Friends</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Happy Wedding Bang Febro. Selamat menempuh hidup baru, semoga bahagia selalu , segera diberi momongan, Amiinn.
+                  Happy Wedding Bang Febro. Selamat menempuh hidup baru, semoga bahagia selalu , segera diberi momongan, Aamiin.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="<?= base_url('/main/assets/img/luzia.jpeg'); ?>" class="testimonial-img" alt="">
+                <h3>Luzia Ramandhani</h3>
+                <h4>Our Best Friends</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Selamat dengan status barunya. Sakinah Mawadah Warrohmah. Bahagia Selalu. Dan, segera menjadi "the next Halilintar's Family"
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -472,6 +485,19 @@
                   "Untuk Febro dan mustika" - "Semoga sakinah mawadah warahmah pernikahannya"<br>
                   بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِى خَيْرٍ 
                   <br> “Semoga Allah memberikan berkah untukmu, semoga Allah memberi berkah padamu dan menghimpun kalian berdua (sebagai suami istri) dalam kebaikan.” Aamiin
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="<?= base_url('/main/assets/img/junita.jpeg'); ?>" class="testimonial-img" alt="">
+                <h3>Junyta Alfianty</h3>
+                <h4>Our Best Friends</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Happy wedding sahabatku. Selamat menjalankan ibadah paling panjang seumur hidup. Semoga menjadi keluarga sakinah mawadah warohmah till jannah. Diberkahi dalam kehidupan berumahtangga nya. Lekas diberikan momongan yang soleh dan solikhah. Selamat mengarungi bahtera rumah tangga.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
